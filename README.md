@@ -255,7 +255,7 @@ curl -X POST http://localhost:8000/query \
 
 ---
 
-## 👤 المطوّر
+##  المطوّر
 
 **Mustafa Ahmed**
 [GitHub](https://github.com/m4stafa1) · [LinkedIn](https://linkedin.com/in/mustafa-ahmed-ai)
